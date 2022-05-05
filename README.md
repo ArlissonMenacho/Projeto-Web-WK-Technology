@@ -1,6 +1,9 @@
 # Teste Técnico Wk Technology
 Projeto desenvolvido em solicitação da empresa WKTechnology como fruto de avalição técnica
 
+* Link PROJETO API "https://github.com/ArlissonMenacho/Projeto-API-WK-Technology.git"
+* Link PROJETO WEB "https://github.com/ArlissonMenacho/Projeto-Web-WK-Technology.git"
+
 ## Projeto WEB
 
 ## Dependências
